@@ -1,7 +1,7 @@
 <h1>Olá, me chamo Luiz Davi 😄</h1>
 
-- 🔭 Estou trabalhando com back-end.
-- 🌱 Estou estudando Ruby on Rails, Node.Js, JavaScript, TypeScript, APIs rest e GraphQL.
+- 🔭 Trabalho como desenvolvedor Back-End, construindo e dando manutanção em APIs Rest.
+- 🌱 Gosto de estar sempre estudando coisas novas. A da vez é Python, Django e Django Rest Framework.
 
 
 <div align="left">
@@ -20,6 +20,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
 
 ##
